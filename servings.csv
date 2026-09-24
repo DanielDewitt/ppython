@@ -1,0 +1,51 @@
+Serving_Name,Ingredient_1,Ratio_1,Ingredient_2,Ratio_2,Ingredient_3,Ratio_3,Ingredient_4,Ratio_4,Ingredient_5,Ratio_5,Ingredient_6,Ratio_6,Cooking_Time_Min,Utensils
+Hähnchenbrust mit Tomatensoße,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",0.80,"Tomato products, canned, sauce",0.15,"Oil, olive, salad or cooking",0.05,,,,,,,20,2
+Hähnchen-Reis-Brokkoli,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",0.35,"Rice, white, long-grain, regular, enriched, cooked",0.40,"Broccoli, raw",0.20,"Oil, olive, salad or cooking",0.05,,,,,30,2
+Hähnchen-Pasta,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",0.30,"Pasta, cooked, enriched, without added salt",0.45,"Tomato products, canned, sauce",0.20,"Cheese, parmesan, grated",0.05,,,,,25,2
+Hackfleisch in Tomatensoße,"Beef, ground, 90% lean meat / 10% fat, raw",0.65,"Tomato products, canned, sauce",0.25,"Onions, raw",0.05,"Oil, olive, salad or cooking",0.05,,,,,25,2
+Rind-Reis-Paprika-Pfanne,"Beef, ground, 90% lean meat / 10% fat, raw",0.35,"Rice, white, long-grain, regular, enriched, cooked",0.35,"Peppers, sweet, red, raw",0.15,"Onions, raw",0.10,"Oil, olive, salad or cooking",0.05,,,30,2
+Puten-Reis-Erbsen-Pfanne,"Turkey, Ground, cooked",0.35,"Rice, white, long-grain, regular, enriched, cooked",0.40,"Peas, green, frozen, cooked, boiled, drained, without salt",0.20,"Oil, olive, salad or cooking",0.05,,,,,20,2
+Lachs mit Kartoffeln und Spinat,"Fish, salmon, pink, raw",0.40,"Potatoes, boiled, cooked without skin, flesh, without salt",0.35,"Spinach, raw",0.18,"Oil, olive, salad or cooking",0.05,"Lemon juice, raw",0.02,,,35,3
+Kabeljau mit Reis und Brokkoli,"Fish, cod, Atlantic, cooked, dry heat",0.40,"Rice, white, long-grain, regular, enriched, cooked",0.35,"Broccoli, raw",0.20,"Oil, olive, salad or cooking",0.03,"Lemon juice, raw",0.02,,,30,3
+Thunfisch-Pasta,"Fish, tuna, light, canned in water, drained solids",0.30,"Pasta, cooked, enriched, without added salt",0.45,"Tomato products, canned, sauce",0.15,"Onions, raw",0.05,"Oil, olive, salad or cooking",0.05,,,20,2
+Schweinefilet mit Kartoffeln und Karotten,"Pork, fresh, loin, tenderloin, separable lean only, raw",0.45,"Potatoes, boiled, cooked without skin, flesh, without salt",0.35,"Carrots, raw",0.15,"Oil, olive, salad or cooking",0.05,,,,,40,2
+Käseomelett,"Egg, whole, raw, fresh",0.70,"Milk, whole, 3.25% milkfat, with added vitamin D",0.10,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",0.15,"Butter, salted",0.05,,,,,10,1
+Rührei mit Brot,"Egg, whole, raw, fresh",0.60,"Bread, wheat",0.30,"Butter, salted",0.10,,,,,,,10,1
+Avocado-Ei-Brot,"Bread, wheat",0.35,"Avocados, raw, all commercial varieties",0.40,"Egg, whole, cooked, hard-boiled",0.25,,,,,,,12,2
+Käsetoast,"Bread, wheat",0.65,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",0.30,"Butter, salted",0.05,,,,,,,10,1
+Erdnussbutter-Marmeladenbrot,"Bread, wheat",0.55,"Peanut butter, smooth style, without salt",0.25,Jams and preserves,0.20,,,,,,,5,1
+Bananen-Joghurt-Bowl,"Yogurt, plain, whole milk",0.55,"Bananas, raw",0.30,Honey,0.05,"Nuts, walnuts, english",0.10,,,,,5,1
+Beeren-Joghurt-Bowl,"Yogurt, Greek, plain, lowfat",0.55,"Strawberries, raw",0.20,"Blueberries, raw",0.15,"Cereals, oats, regular and quick, not fortified, dry",0.10,,,,,5,1
+Haferbrei mit Banane,"Cereals, oats, regular and quick, not fortified, dry",0.20,"Milk, whole, 3.25% milkfat, with added vitamin D",0.55,"Bananas, raw",0.20,Honey,0.05,,,,,10,1
+Obstsalat,"Apples, raw, without skin",0.25,"Bananas, raw",0.20,"Strawberries, raw",0.20,"Blueberries, raw",0.15,"Oranges, raw, all commercial varieties",0.20,,,10,2
+Erdbeer-Bananen-Smoothie,"Milk, whole, 3.25% milkfat, with added vitamin D",0.45,"Bananas, raw",0.25,"Strawberries, raw",0.20,"Yogurt, plain, whole milk",0.10,,,,,5,1
+Griechischer Salat,"Lettuce, cos or romaine, raw",0.25,"Cucumber, with peel, raw",0.20,"Tomatoes, red, ripe, raw, year round average",0.20,"Cheese, feta",0.15,"Olives, pickled, canned or bottled, green",0.10,"Oil, olive, salad or cooking",0.10,10,2
+Gemischter Salat,"Lettuce, cos or romaine, raw",0.30,"Cucumber, with peel, raw",0.20,"Carrots, raw",0.15,"Peppers, sweet, red, raw",0.20,"Oil, olive, salad or cooking",0.10,"Lemon juice, raw",0.05,10,2
+Kichererbsensalat,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",0.45,"Tomatoes, red, ripe, raw, year round average",0.20,"Cucumber, with peel, raw",0.15,"Onions, raw",0.10,"Oil, olive, salad or cooking",0.10,,,10,2
+Linseneintopf,"Lentils, mature seeds, cooked, boiled, without salt",0.40,"Tomato products, canned, sauce",0.20,"Carrots, raw",0.15,"Onions, raw",0.10,"Celery, raw",0.10,"Oil, olive, salad or cooking",0.05,35,2
+Bohnen-Hack-Chili,"Beef, ground, 90% lean meat / 10% fat, raw",0.30,"Beans, kidney, all types, mature seeds, cooked, boiled, without salt",0.30,"Tomato products, canned, sauce",0.25,"Onions, raw",0.10,"Oil, olive, salad or cooking",0.05,,,35,2
+Gemüse-Eintopf,"Potatoes, boiled, cooked without skin, flesh, without salt",0.30,"Carrots, raw",0.20,"Cabbage, raw",0.20,"Celery, raw",0.10,"Onions, raw",0.10,"Oil, olive, salad or cooking",0.10,35,2
+Brokkoli-Cremesuppe,"Broccoli, raw",0.55,"Milk, whole, 3.25% milkfat, with added vitamin D",0.25,"Cream, fluid, heavy whipping",0.10,"Onions, raw",0.05,"Butter, salted",0.05,,,25,2
+Tomaten-Cremesuppe,"Tomato products, canned, sauce",0.60,"Milk, whole, 3.25% milkfat, with added vitamin D",0.25,"Cream, fluid, heavy whipping",0.10,"Oil, olive, salad or cooking",0.05,,,,,20,2
+Champignon-Pasta,"Pasta, cooked, enriched, without added salt",0.45,"Mushrooms, white, raw",0.30,"Cream, fluid, heavy whipping",0.15,"Onions, raw",0.05,"Oil, olive, salad or cooking",0.05,,,25,2
+Spinat-Pasta,"Pasta, cooked, enriched, without added salt",0.45,"Spinach, raw",0.30,"Cream, fluid, heavy whipping",0.15,"Cheese, parmesan, grated",0.05,"Oil, olive, salad or cooking",0.05,,,20,2
+Quinoa-Feta-Salat,"Quinoa, cooked",0.40,"Cucumber, with peel, raw",0.20,"Tomatoes, red, ripe, raw, year round average",0.20,"Cheese, feta",0.10,"Oil, olive, salad or cooking",0.10,,,15,2
+Couscous-Gemüse-Pfanne,"Couscous, cooked",0.40,"Squash, summer, zucchini, includes skin, raw",0.20,"Peppers, sweet, red, raw",0.15,"Onions, raw",0.15,"Oil, olive, salad or cooking",0.10,,,20,2
+Reis mit schwarzen Bohnen,"Rice, white, long-grain, regular, enriched, cooked",0.45,"Beans, black, mature seeds, cooked, boiled, without salt",0.35,"Tomatoes, red, ripe, raw, year round average",0.10,"Onions, raw",0.05,"Oil, olive, salad or cooking",0.05,,,20,2
+Tofu-Gemüse-Reis-Pfanne,"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",0.30,"Rice, white, long-grain, regular, enriched, cooked",0.35,"Broccoli, raw",0.15,"Peppers, sweet, red, raw",0.15,"Oil, sesame, salad or cooking",0.05,,,25,2
+Ofenkartoffel mit Käse und Sauerrahm,"Potatoes, baked, flesh and skin, without salt",0.70,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",0.15,"Cream, sour, cultured",0.15,,,,,,,45,2
+Kartoffelpüree,"Potatoes, boiled, cooked without skin, flesh, without salt",0.70,"Milk, whole, 3.25% milkfat, with added vitamin D",0.20,"Butter, salted",0.10,,,,,,,25,3
+Avocado-Toast mit Ei,"Bread, wheat",0.40,"Avocados, raw, all commercial varieties",0.35,"Egg, whole, cooked, hard-boiled",0.25,,,,,,,10,2
+Einfacher Hummus,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",0.70,"Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",0.15,"Lemon juice, raw",0.10,"Garlic, raw",0.05,,,,,10,1
+Hafer-Bananen-Pancakes,"Cereals, oats, regular and quick, not fortified, dry",0.25,"Bananas, raw",0.35,"Egg, whole, raw, fresh",0.30,"Butter, salted",0.10,,,,,15,2
+Klassische Pancakes,"Wheat flour, white, all-purpose, unenriched",0.35,"Milk, whole, 3.25% milkfat, with added vitamin D",0.35,"Egg, whole, raw, fresh",0.20,"Butter, salted",0.05,Honey,0.05,,,20,2
+Apfel-Walnuss-Joghurt,"Apples, raw, without skin",0.30,"Yogurt, plain, whole milk",0.55,"Nuts, walnuts, english",0.10,Honey,0.05,,,,,5,1
+Geröstetes Ofengemüse,"Potatoes, boiled, cooked without skin, flesh, without salt",0.35,"Carrots, raw",0.25,"Broccoli, raw",0.20,"Cauliflower, raw",0.15,"Oil, olive, salad or cooking",0.05,,,40,2
+Kraut-Karotten-Salat,"Cabbage, raw",0.50,"Carrots, raw",0.25,"Yogurt, plain, whole milk",0.15,"Lemon juice, raw",0.05,Honey,0.05,,,15,2
+Thunfisch-Sandwich,"Bread, wheat",0.45,"Fish, tuna, light, canned in water, drained solids",0.30,"Salad dressing, mayonnaise, regular",0.15,"Lettuce, cos or romaine, raw",0.10,,,,,10,2
+Puten-Käse-Sandwich,"Bread, wheat",0.45,"Turkey breast, sliced, prepackaged",0.25,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",0.15,"Lettuce, cos or romaine, raw",0.10,"Tomatoes, red, ripe, raw, year round average",0.05,,,10,2
+Gemüse-Tortilla,"Tortillas, ready-to-bake or -fry, whole wheat",0.35,"Beans, black, mature seeds, cooked, boiled, without salt",0.25,"Tomatoes, red, ripe, raw, year round average",0.15,"Avocados, raw, all commercial varieties",0.15,"Lettuce, cos or romaine, raw",0.10,,,15,2
+Reis-Bowl mit Lachs,"Rice, white, long-grain, regular, enriched, cooked",0.45,"Fish, salmon, pink, raw",0.30,"Cucumber, with peel, raw",0.15,"Avocados, raw, all commercial varieties",0.10,,,,,25,2
+Kürbis-Cremesuppe,"Pumpkin, canned, without salt",0.65,"Milk, whole, 3.25% milkfat, with added vitamin D",0.20,"Cream, fluid, heavy whipping",0.10,"Butter, salted",0.05,,,,,25,2
+Blumenkohl-Käse-Auflauf,"Cauliflower, raw",0.55,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",0.20,"Milk, whole, 3.25% milkfat, with added vitamin D",0.20,"Butter, salted",0.05,,,,,35,2
+Tomate-Mozzarella,"Tomatoes, red, ripe, raw, year round average",0.50,"Cheese, mozzarella, low moisture, part-skim",0.35,"Oil, olive, salad or cooking",0.10,"Spices, basil, dried",0.05,,,,,5,2
